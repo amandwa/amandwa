@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/21/d7/99/21d799e3af4303646c63a92f6a32270f.gif" width="500px" style="border-radius: 10px; border: 4px solid #FF9BB3; margin-bottom: 20px; box-shadow: 0 0 15px #FFD1DC;">
+  <img src="https://i.pinimg.com/originals/1e/00/42/1e004267a0ad04cd31854900463b8241.gif" width="500px" style="border-radius: 10px; border: 4px solid #FF9BB3; margin-bottom: 20px; box-shadow: 0 0 15px #FFD1DC;">
 
 
   <h1 style="color: #FF66B2; font-family: 'Segoe UI', sans-serif; font-size: 2.5em; text-shadow: 2px 2px 4px #D957A8;">BUSQUE CONHECIMENTO 🌸</h1>
@@ -24,3 +24,4 @@
 - 🧸 DESENVOLVO SOLUÇÕES DE ARQUITETURA DE DADOS QUE **AUTOMATIZAM PROCESSOS**  
 - 🍡 CURIOSIDADE: MINHA PAIXÃO POR ANÁLISE COMEÇOU COM **EXCEL**  
 - 🎀 AMO APRENDER E COMPARTILHAR CONHECIMENTO TODOS OS DIAS  
+
