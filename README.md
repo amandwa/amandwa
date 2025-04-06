@@ -1,7 +1,8 @@
 <div align="center">
+  <!-- GIF cortado na horizontal (exemplo com 900x300px) -->
+  <img src="LINK_DO_GIF_CORTADO_AQUI.gif" width="900px" height="300px" style="border-radius:10px; border:4px solid #37748C; object-fit:cover; margin-bottom:20px;">
 
-  <img src="https://i.pinimg.com/originals/21/d7/99/21d799e3af4303646c63a92f6a32270f.gif" width="900px" style="border-radius: 10px; border: 4px solid #37748C; margin-bottom: 20px;">
-
+  
   <h1 style="color: #BBF2ED; font-family: 'Segoe UI', sans-serif; font-size: 2.5em; text-shadow: 2px 2px 4px #042940;"> BUSQUE CONHECIMENTO </h1>
   <p style="color: #F2EBC9; font-family: 'Segoe UI', sans-serif; font-size: 1.2em; letter-spacing: 1px;">ANALISTA DE DADOS | DEV | ENGENHEIRA DE BI 🌀📊</p>
 </div>
