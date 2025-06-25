@@ -14,7 +14,7 @@
 
 
 <div align="center"> <!-- Estatísticas de atividade --> <img src="https://github-readme-stats.vercel.app/api?username=amandwa&show_icons=true&theme=radical&bg_color=FFF0F5&title_color=D957A8&icon_color=FF66B2&text_color=FF66B2&border_color=FFB6C1&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas" width="60%"> <!-- Frequência de commits --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandwa&bg_color=FFF0F5&color=D957A8&line=FF66B2&point=FF9BB3&area=true&hide_border=true" alt="Atividade" width="90%" style="margin-top: 20px;"> </div>
-💌 FALA COMIGO
+💌 
 <div align="center" style="margin-top: 20px; background-color: #FFD1DC; padding: 10px; border-radius: 50px; display: inline-block;"> <a href="https://www.linkedin.com/in/amanda-prado-7b714b2b4/"> <img src="https://img.shields.io/badge/LINKEDIN-FF66B2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 5px;"> 🎀 </a> <a href="mailto:amandaprrado@outlook.com.br"> <img src="https://img.shields.io/badge/EMAIL-D957A8?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 5px;"> 💌 </a> </div>
 <div align="center" style="margin-top: 30px; color: #FF66B2; font-family: 'Comic Sans MS'; font-size: 1.2em;"> <p>💝 <strong>CADA DIA É UMA NOVA OPORTUNIDADE PARA APRENDER!</strong> 💝</p> </div> ```
 
