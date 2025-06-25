@@ -3,7 +3,7 @@
 
 
   <h1 style="color: #FF66B2; font-family: 'Segoe UI', sans-serif; font-size: 2.5em; text-shadow: 2px 2px 4px #D957A8;">BUSQUE CONHECIMENTO 🌸</h1>
-  <p style="color: #FFB6C1; font-family: 'Segoe UI', sans-serif; font-size: 1.2em; letter-spacing: 1px;">ANALISTA DE DADOS | DEV | ARQUITETURA DE DADOS 💫</p>
+  <p style="color: #FFB6C1; font-family: 'Segoe UI', sans-serif; font-size: 1.2em; letter-spacing: 1px;">ANALISTA DE DADOS | ARQUITETURA & ENGENHARIA DE DADOS 💫</p>
 </div>
 
 ---
