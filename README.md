@@ -22,7 +22,5 @@
 <div style="background-color: #FFD1DC; padding: 25px; border-radius: 12px; border-left: 6px solid #FF66B2; margin: 25px 0; box-shadow: 0 4px 8px rgba(255, 102, 178, 0.15);">
   <ul style="color: #000000; font-family: 'Segoe UI', sans-serif; font-size: 1.05em; line-height: 1.8; margin: 0; padding-left: 20px;">
     <li style="margin-bottom: 10px;">🧸 DESENVOLVO SOLUÇÕES DE ARQUITETURA DE DADOS QUE <strong style="color: #D23369;">AUTOMATIZAM PROCESSOS</strong></li>
-    <li style="margin-bottom: 10px;">🍡 CURIOSIDADE: MINHA PAIXÃO POR ANÁLISE COMEÇOU COM <strong style="color: #D23369;">EXCEL</strong></li>
-    <li>🎀 AMO APRENDER E COMPARTILHAR CONHECIMENTO TODOS OS DIAS</li>
   </ul>
 </div>
