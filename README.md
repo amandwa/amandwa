@@ -2,8 +2,8 @@
   <img src="https://i.pinimg.com/originals/1e/00/42/1e004267a0ad04cd31854900463b8241.gif" width="500px" style="border-radius: 10px; border: 4px solid #FF9BB3; margin-bottom: 20px; box-shadow: 0 0 15px #FFD1DC;">
 
 
-  <h1 style="color: #FF66B2; font-family: 'Segoe UI', sans-serif; font-size: 2.5em; text-shadow: 2px 2px 4px #D957A8;">BUSQUE CONHECIMENTO 🌸</h1>
-  <p style="color: #FFB6C1; font-family: 'Segoe UI', sans-serif; font-size: 1.2em; letter-spacing: 1px;">ANALISTA DE DADOS | ARQUITETURA & ENGENHARIA DE DADOS 💫</p>
+  <h1 style="color: #FF66B2; font-family: 'Segoe UI', sans-serif; font-size: 2.5em; text-shadow: 2px 2px 4px #D957A8;">🌸</h1>
+  <p style="color: #FFB6C1; font-family: 'Segoe UI', sans-serif; font-size: 1.2em; letter-spacing: 1px;"> ARQUITETURA & ENGENHARIA DE DADOS 💫</p>
 </div>
 
 ---
