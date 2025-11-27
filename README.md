@@ -9,7 +9,15 @@
 ---
 
 💘 TECH STACK
-<div align="center" style="margin: 20px 0; background-color: #FFF0F5; padding: 15px; border-radius: 20px; border: 2px dashed #FF9BB3;"> <img src="https://img.shields.io/badge/POWER_BI-FF66B2?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"> 🎀 <img src="https://img.shields.io/badge/PYTHON-FFB6C1?style=for-the-badge&logo=python&logoColor=black" alt="Python"> 🍡 <img src="https://img.shields.io/badge/SQL-D957A8?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> 🧁 <img src="https://img.shields.io/badge/EXCEL-FF9BB3?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"> 🎀 </div>
+<div align="center" style="margin: 20px 0; background-color: #FFF0F5; padding: 15px; border-radius: 20px; border: 2px dashed #FF9BB3;">
+  <img src="https://img.shields.io/badge/PYTHON-FFB6C1?style=for-the-badge&logo=python&logoColor=black" alt="Python"> 🍡
+  <img src="https://img.shields.io/badge/SQL-D957A8?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"> 🧁
+  <img src="https://img.shields.io/badge/CLOUD-FF66B2?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud"> 🎀
+  <img src="https://img.shields.io/badge/DOCKER-FFB6C1?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> 🍡
+  <img src="https://img.shields.io/badge/AWS-D957A8?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"> 🧁
+  <img src="https://img.shields.io/badge/KAFKA-FF9BB3?style=for-the-badge&logo=apachekafka&logoColor=black" alt="Kafka"> 🎀
+</div>
+
 
 
 
